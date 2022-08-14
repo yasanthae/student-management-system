@@ -1,0 +1,27 @@
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Student Management System\Student Management System\bin\Debug\Student Management System.exe.config
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Student Management System\Student Management System\bin\Debug\Student Management System.exe
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Student Management System\Student Management System\bin\Debug\Student Management System.pdb
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Student Management System\Student Management System\obj\Debug\Student_Management_System.Form1.resources
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Student Management System\Student Management System\obj\Debug\Student_Management_System.Properties.Resources.resources
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Student Management System\Student Management System\obj\Debug\Student Management System.csproj.GenerateResource.Cache
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Student Management System\Student Management System\obj\Debug\Student Management System.exe
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Student Management System\Student Management System\obj\Debug\Student Management System.pdb
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Student Management System\Student Management System\obj\Debug\Student_Management_System.MDIParent1.resources
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Student Management System\Student Management System\obj\Debug\Student_Management_System.Form2.resources
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Student Management System\Student Management System\bin\Debug\Database1.mdf
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Student Management System\Student Management System\bin\Debug\Database1_log.ldf
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Student Management System\Student Management System\obj\Debug\Student Management System.csproj.AssemblyReference.cache
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Student Management System\Student Management System\obj\Debug\Student Management System.csproj.CoreCompileInputs.cache
+E:\Download\Docu\Visual Studio 2013\Projects\Student Management System\Student Management System\bin\Debug\Student Management System.exe.config
+E:\Download\Docu\Visual Studio 2013\Projects\Student Management System\Student Management System\obj\Debug\Student Management System.exe
+E:\Download\Docu\Visual Studio 2013\Projects\Student Management System\Student Management System\obj\Debug\Student Management System.pdb
+E:\Download\Docu\Visual Studio 2013\Projects\Student Management System\Student Management System\bin\Debug\Database1.mdf
+E:\Download\Docu\Visual Studio 2013\Projects\Student Management System\Student Management System\bin\Debug\Database1_log.ldf
+E:\Download\Docu\Visual Studio 2013\Projects\Student Management System\Student Management System\bin\Debug\Student Management System.exe
+E:\Download\Docu\Visual Studio 2013\Projects\Student Management System\Student Management System\bin\Debug\Student Management System.pdb
+E:\Download\Docu\Visual Studio 2013\Projects\Student Management System\Student Management System\obj\Debug\Student Management System.csprojResolveAssemblyReference.cache
+E:\Download\Docu\Visual Studio 2013\Projects\Student Management System\Student Management System\obj\Debug\Student_Management_System.Form1.resources
+E:\Download\Docu\Visual Studio 2013\Projects\Student Management System\Student Management System\obj\Debug\Student_Management_System.Form2.resources
+E:\Download\Docu\Visual Studio 2013\Projects\Student Management System\Student Management System\obj\Debug\Student_Management_System.MDIParent1.resources
+E:\Download\Docu\Visual Studio 2013\Projects\Student Management System\Student Management System\obj\Debug\Student_Management_System.Properties.Resources.resources
+E:\Download\Docu\Visual Studio 2013\Projects\Student Management System\Student Management System\obj\Debug\Student Management System.csproj.GenerateResource.Cache
